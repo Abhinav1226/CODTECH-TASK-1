@@ -57,3 +57,4 @@ The result is: 6.0
 
 
 
+![TASK 1 Result](https://github.com/Abhinav1226/CODTECH-TASK-1/assets/150127637/d137c6e5-1306-4a9f-83a1-a6c9248134d1)
