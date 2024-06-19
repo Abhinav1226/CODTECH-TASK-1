@@ -29,7 +29,7 @@ This is a simple Python program that functions as a basic calculator. It allows 
 ## Installation
 
 1. **Clone the repository**:
-     git clone <https://github.com/SaiPooja26/CODTECH-Task-1>
+     git clone <https://github.com/Abhinav1226/CODTECH-TASK-1>
 
 2. **Run the calculator**:
      python calculator.py
